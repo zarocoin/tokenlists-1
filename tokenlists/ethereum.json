@@ -22128,5 +22128,17 @@
             "lifinance",
             "xyfinance"
         ]
-    }
+    },
+    {
+    "symbol": "ZARO",
+    "name": "Zaro Coin",
+    "address": "0xc311FD6DA9686507F33991543d8158EF5FaDd5E7",
+    "decimals": 18,
+    "chainId": 1,
+    "logoURI": "https://raw.githubusercontent.com/zarocoin/zarocoin/main/media/logos/ZARO_logo_2D.png",
+    "coingeckoId": "zaro-coin",
+    "listedIn": [
+        "coingecko"
+    ]
+}
 ]
