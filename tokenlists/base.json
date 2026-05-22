@@ -1,0 +1,14 @@
+[
+{
+    "symbol": "ZARO",
+    "name": "Zaro Coin",
+    "address": "0x1d4CeA73e212829d06B9a774d2e06be9DEe5AAB0",
+    "decimals": 18,
+    "chainId": 8453,
+    "logoURI": "https://raw.githubusercontent.com/zarocoin/zarocoin/main/media/logos/ZARO_logo_2D.png",
+    "coingeckoId": "zaro-coin",
+    "listedIn": [
+        "coingecko"
+    ]
+}
+]
